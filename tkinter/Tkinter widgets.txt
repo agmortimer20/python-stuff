@@ -1,0 +1,24 @@
+Media
+-----
+Label - Labels, Headers, Images
+Message - Body text
+
+
+Input
+-----
+Button - Click input
+Entry - Text Input
+Spinbox - Fixed numeric input
+Listbox - Multi-option input box
+Checkbox - Multi-item select
+Radio button - Single-item select
+Scale - Slider
+
+
+Container
+---------
+Frame
+
+
+Navigation
+----------
